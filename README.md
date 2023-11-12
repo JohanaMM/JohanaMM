@@ -1,4 +1,3 @@
-// template.ejs
   <h1 align="center">Hola 👋, soy Johana Martinez</h1>
   <h3 align="center"> "Diseñadora Gráfica, Diseñadora UX/UI y Programadora Junior" </h3>
 
